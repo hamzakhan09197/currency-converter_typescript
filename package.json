@@ -4,6 +4,7 @@
   "description": "",
   "main": "currency_converter.js",
   "type": "module",
+  "bin": "./currency_converter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
